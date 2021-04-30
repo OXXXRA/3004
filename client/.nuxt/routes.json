@@ -1,0 +1,26 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/mac/Desktop/test/client/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "add",
+    "path": "/add",
+    "component": "/Users/mac/Desktop/test/client/pages/add.vue",
+    "chunkName": "pages/add"
+  },
+  {
+    "name": "articles-id",
+    "path": "/articles/:id?",
+    "component": "/Users/mac/Desktop/test/client/pages/articles/_id.vue",
+    "chunkName": "pages/articles/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/mac/Desktop/test/client/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
